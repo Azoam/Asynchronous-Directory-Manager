@@ -3,7 +3,7 @@ Mimic file/directory changes on a local directory onto a specified remote direct
 -------------------------------------------------------------------------------
 ### Usage
 1. git clone https://github.com/Azoam/Asynchronous-Directory-Manager.git
-2 (optional). Alias or put into your Path variable the command 'node <absolute path to index.js>' as adm
+2. (optional). Alias or put into your Path variable the command 'node <absolute path to index.js>' as adm
 3. Go into the directory where you would like changes to be recorded and mimiced.
 4. Run adm (or node <absolute path to index.js> if you skipped 2) --host <hostname, ilab if you want to use an ilab machine> --remote <remote directory on the specified host>
 5. You will be prompted for the ssh username and password (make sure your host machine allows for ssh, the program is scp based)
