@@ -1,6 +1,9 @@
 # Asynchronous-Directory-Manager
 
 Mimic file/directory changes on a local directory onto a specified remote directory on another server
+
+
+
 -------------------------------------------------------------------------------
 ### Usage
 1. git clone https://github.com/Azoam/Asynchronous-Directory-Manager.git
