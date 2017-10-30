@@ -1,0 +1,29 @@
+{
+  "name": "async-dic-man",
+  "version": "1.0.0",
+  "description": "Mimic file/directory changes on a local directory to a specific remote directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azoam/Asynchronous-Directory-Manager.git"
+  },
+  "author": "Sam Azouzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azoam/Asynchronous-Directory-Manager/issues"
+  },
+  "homepage": "https://github.com/Azoam/Asynchronous-Directory-Manager#readme",
+  "dependencies": {
+    "inotify": "^1.4.2",
+    "ping-lite": "^1.0.2",
+    "prompt": "^1.0.0",
+    "random-number": "0.0.9",
+    "scp2": "^0.5.0",
+    "shelljs": "^0.7.8",
+    "ssh-exec": "^2.0.0",
+    "yargs": "^10.0.3"
+  }
+}
